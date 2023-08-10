@@ -8,8 +8,8 @@ LastEditTime: 2023-08-10 10:21:12
 import imaplib
 import tqdm
 # 邮箱配置
-email = "maotanxiong@163.com"
-password= "FTGAVZFOTINYROSS"
+email = "account@163.com"
+password= "yourpassword"
 imap_server = "imap.163.com"
 from imapclient import IMAPClient
 
